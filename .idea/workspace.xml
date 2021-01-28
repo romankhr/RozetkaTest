@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc863d77-e1c6-400c-b59a-872ee1b222b2" name="Default Changelist" comment="Updated  FirstWebTests by using DataProvider" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l714Rgb32q62AJWuJYfVAPc2QO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39558825" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.course_qa2020" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.course_qa2020.framework" />
+      <recent name="com.course_qa2020.pages" />
+      <recent name="com.course_qa2020.listeners" />
+      <recent name="course.listeners" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course QA\couse-QA-2020\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RozetkaTests.verifyLogInInCorrectPasswordTest">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="rozetka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="rozetka" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTests.verifyLogInInCorrectPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rozetka.rozetkatests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rozetka.rozetkatests" />
+      <option name="MAIN_CLASS_NAME" value="com.rozetka.rozetkatests.RozetkaTests" />
+      <option name="METHOD_NAME" value="verifyLogInInCorrectPasswordTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTests.verifyLogIninCorrectUserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rozetka.rozetkatests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rozetka.rozetkatests" />
+      <option name="MAIN_CLASS_NAME" value="com.rozetka.rozetkatests.RozetkaTests" />
+      <option name="METHOD_NAME" value="verifyLogIninCorrectUserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTests.verifyNewReleasesPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rozetka.rozetkatests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="MAIN_CLASS_NAME" value="com.rozetka.rozetkatests.RozetkaTests" />
+      <option name="METHOD_NAME" value="verifyNewReleasesPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTests.verifyPrimeOption" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rozetka.rozetkatests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="MAIN_CLASS_NAME" value="com.rozetka.rozetkatests.RozetkaTests" />
+      <option name="METHOD_NAME" value="verifyPrimeOption" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RozetkaTests.verifyRatingPresentedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rozetka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rozetka.rozetkatests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course_qa2020.course" />
+      <option name="MAIN_CLASS_NAME" value="com.rozetka.rozetkatests.RozetkaTests" />
+      <option name="METHOD_NAME" value="verifyRatingPresentedTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RozetkaTests.verifyLogInInCorrectPasswordTest" />
+        <item itemvalue="TestNG.RozetkaTests.verifyLogIninCorrectUserTest" />
+        <item itemvalue="TestNG.RozetkaTests.verifyNewReleasesPageTest" />
+        <item itemvalue="TestNG.RozetkaTests.verifyRatingPresentedTest" />
+        <item itemvalue="TestNG.RozetkaTests.verifyPrimeOption" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc863d77-e1c6-400c-b59a-872ee1b222b2" name="Default Changelist" comment="" />
+      <created>1606933123654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606933123654</updated>
+    </task>
+    <task id="LOCAL-00001" summary="created the new test for sorted pages">
+      <created>1609706022199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609706022200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed Test 1 in FirstWebTests by using DataProvider">
+      <created>1610025876210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610025876210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated  FirstWebTests by using DataProvider">
+      <created>1610026971138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610026971138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated  FirstWebTests by using DataProvider">
+      <created>1610824090717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610824090717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created the new test for sorted pages" />
+    <MESSAGE value="Changed Test 1 in FirstWebTests by using DataProvider" />
+    <MESSAGE value="Updated  FirstWebTests by using DataProvider" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated  FirstWebTests by using DataProvider" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rozetka/pages/NewReleasesAmazonPage.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

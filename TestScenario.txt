@@ -1,0 +1,30 @@
+
+Test 1
+Log in by using valid credencials
+
+Open a browser -> 
+Navigate to the webpage https://rozetka.com.ua/ua/
+Click on link "увійдіть в особистий кабінет"
+In the form "Вхід" insert valid credencials in the fields "Ел. пошта або телефон" and "Пароль"
+Click on button "Увійти"
+User should be logined in personal cabinet.
+
+Test 2
+Log in by using wrong email and correct password
+
+Open a browser -> 
+Navigate to the webpage https://rozetka.com.ua/ua/
+Click on link "увійдіть в особистий кабінет"
+In the form "Вхід" insert incorrect email in the field "Ел. пошта або телефон" and correct password in the field "Пароль" 
+Click on button "Увійти"
+User should't be logined in personal cabinet.
+
+Test 3
+Log in by using correct email and incorrect password
+
+Open a browser -> 
+Navigate to the webpage https://rozetka.com.ua/ua/
+Click on link "увійдіть в особистий кабінет"
+In the form "Вхід" insert correct email in the field "Ел. пошта або телефон" and incorrect password in the field "Пароль" 
+Click on button "Увійти"
+User should't be logined in personal cabinet.
